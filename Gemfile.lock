@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    photomosaic (0.0.1)
+      rmagick
+      searchbing
+    rmagick (2.13.4)
+    searchbing (0.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  photomosaic
